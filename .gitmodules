@@ -1,0 +1,3 @@
+[submodule "Generic\\scripts\\QRCodeGenerator"]
+	path = Generic\\scripts\\QRCodeGenerator
+	url = https://github.com/TobiasPSP/Modules.QRCodeGenerator.git
